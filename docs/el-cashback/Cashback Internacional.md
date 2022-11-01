@@ -10,6 +10,12 @@ En esta sección vamos a cubrir dos servicios que funcionan muy bien en conjunto
 comprar aplica cashback, y el otro te provee con cualquier cupón de descuento vigente que aplique para tu compra, 
 efectivamente logrando un _doble descuento_.
 
+## BeFrugal - Cashback y Cupones
+[Crea una cuenta aquí](https://www.befrugal.com/rs/NGUKAEH/)
+
 ## Rakuten - Cashback
 
-## Honey - Cupones aplicados automáticamente
+## Honey - Cupones
+[Crea una cuenta aquí](https://joinhoney.com/ref/d11844y)
+
+
