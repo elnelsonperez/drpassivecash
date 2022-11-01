@@ -15,7 +15,6 @@ Aunque muchos Bancos tienen promociones donde te ofrecen CashBack en comercios s
 aquí la estrategia es optimizar las tarjetas de crédito que usas diariamente para que con tus consumos habituales, siempre
 consigas cashback, y siempre estes ahorrando dinero.
 
-
 ##  ¿Cuánto puedo ahorrar?
 Para tener una idea de cuanto beneficio se puede obtener optimizando tus tarjetas de acuerdo a tus consumos, analicemos
 el siguiente escenario.
@@ -36,15 +35,28 @@ en RD para cada tipo de consumo:
 | **Total**              | **40,400**          |                  |               | **4,130**    |
 | **Total Anual**        | **484,800**         |                  |               | **49,560**   |
 
-
 Vemos que el ahorro mensual es mas o menos un 10% de los gastos. Si usamos una tarjeta de crédito "clásica", que usualmente
 te dan solo un 1% en "puntos" que pueden convertirse en pesos, el total de ahorro mensualmente podría ser a lo sumo de **RD$285**.
 
-Encima, si tomamos ese ahorro anual de **RD$49,560** y lo invertimos en un instrumento que rinda un **8.5% anual**, 
+Encima, si tomamos ese ahorro anual de **RD$49,560** y **lo invertimos** en un instrumento que rinda un **8.5% anual**, 
 en 6 años tendríamos cerca de **~RD$480,000** (versus ~RD$347,000 si no invertimos).
 
-Obviamente este cálculo está un poco simplificado, ya que habría que restar al ahorro anual el costo anual de las tarjetas.
+:::info
+
+Este cálculo está un poco simplificado, ya que habría que restar al ahorro anual el costo anual de las tarjetas.
 Sin embargo, sirve para demostrar que **la estrategia de optimizar tus tarjetas para aprovechar cashback, e invertir la diferencia,
-puede ser muy fructífero.**
+puede ser muy fructífera.**
 
+:::
 
+## Las mejores tarjetas con Cashback (WIP)
+
+### Vimenca Más Beneficios 1
+
+### Banesco SuperCashback
+
+### APAP Visa Familiar
+
+### Vimenca PagaTodo
+
+### BPD Infinia
