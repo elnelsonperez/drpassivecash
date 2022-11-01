@@ -35,19 +35,27 @@ en RD para cada tipo de consumo:
 | **Total**              | **40,400**          |                  |               | **4,130**    |
 | **Total Anual**        | **484,800**         |                  |               | **49,560**   |
 
-Vemos que el ahorro mensual es mas o menos un 10% de los gastos. Si usamos una tarjeta de crédito "clásica", que usualmente
+Vemos que el ahorro mensual es más o menos un 10% de los gastos. Si usamos una tarjeta de crédito "clásica", que usualmente
 te dan solo un 1% en "puntos" que pueden convertirse en pesos, el total de ahorro mensualmente podría ser a lo sumo de **RD$285**.
-
-Encima, si tomamos ese ahorro anual de **RD$49,560** y **lo invertimos** en un instrumento que rinda un **8.5% anual**, 
-en 6 años tendríamos cerca de **~RD$480,000** (versus ~RD$347,000 si no invertimos).
+Por otro lado, si optimizamos nuestros consumos para sacarles el mayor cashback posible, podemos ahorrar hasta **RD$4,130** mensual en este escenario.
 
 :::info
 
-Este cálculo está un poco simplificado, ya que habría que restar al ahorro anual el costo anual de las tarjetas.
-Sin embargo, sirve para demostrar que **la estrategia de optimizar tus tarjetas para aprovechar cashback, e invertir la diferencia,
-puede ser muy fructífera.**
+El cálculo de ahorro anual está un poco simplificado, ya que habría que restar al ahorro anual el costo anual de las tarjetas.
 
 :::
+
+
+### Invierte tu ahorro
+Invertir lo que te devuelven de cashback es una tremenda estrategia a largo plazo para crecer tu patrimonio. 
+
+Si tomamos ese ahorro anual de **RD$49,560** y **lo invertimos** en un instrumento que rinda un **8.5% anual**, 
+en 6 años tendríamos cerca de **~RD$480,000** (versus ~RD$347,000 si no invertimos).
+
+Por experiencia colectiva, la estrategia de optimizar tus tarjetas para aprovechar cashback, e invertir de manera consistente la diferencia,
+puede ser muy fructífera a largo plazo.
+
+Más adelante hablaremos un poco más sobre los [instrumentos de inversion](/category/las-inversiones).
 
 ## Las mejores tarjetas con Cashback (WIP)
 
