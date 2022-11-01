@@ -38,7 +38,6 @@ const config = {
       ({
         gtag: {
           trackingID: 'G-2DCC60KZER',
-          anonymizeIP: true,
         },
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
